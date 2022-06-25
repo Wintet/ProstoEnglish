@@ -362,7 +362,8 @@ hr {
     }
     
     .intro__title5 {
-       margin-top: -44%;
+       width: 0px;
+       
     }
     
     .intro__title6 {
@@ -386,6 +387,10 @@ hr {
     .AVTOR_GOSHA {
         padding-right: 24%;
         width: 160px;
+    }
+
+    .uu{
+        width: 0px;
     }
     
     .section5 {

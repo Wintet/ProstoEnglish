@@ -233,6 +233,10 @@ hr {
         width: auto;
         border-right: 1px solid white;
     }
+    
+     .uu{
+        width: 0px;
+    }
 }
 
 @media (max-width: 770px) {
@@ -331,6 +335,10 @@ hr {
 
     .wedo__item {
         width: 100%;
+    }
+    
+     .uu{
+        width: 0px;
     }
 
 }
